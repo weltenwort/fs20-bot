@@ -11,6 +11,10 @@ You can install the requirements using `pip install -r requirements.txt`.
 
 * `pyserial`
 
+## Assumptions
+
+These tools currently assume that the serial port is `/dev/ttyUSB0`.
+
 ## Tools
 
 ### `monitor.py`: bus monitor for debugging
